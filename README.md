@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Markson</h1>
-<h3 align="center">Software developer</h3>
+<h1 align="center">Hi 👋/h1>
+<h3 align="center">.NET developer</h3>
 
 - 🌱 I’m currently learning **C#, HTML, CSS, JS**
 
